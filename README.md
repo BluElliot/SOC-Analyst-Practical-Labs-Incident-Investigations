@@ -15,6 +15,5 @@ Core focus areas:
 - SOC Analyst Project 2
 - Security Evaluation
 - Quick and Simple Server Exposure Review
--
-This is an ongoing body of work, with additional labs and investigations added over time.
 
+This is an ongoing body of work, with additional labs and investigations added over time.
