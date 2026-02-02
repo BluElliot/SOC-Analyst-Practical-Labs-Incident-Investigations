@@ -10,11 +10,11 @@ This portfolio consolidates multiple hands-on SOC analyst projects focused on th
 **Included projects:**
 - TShark Challenge
 - Zeek Challenge
-- SOC Analyst – Snort
-- SOC Analyst Project – Friday Overtime
-- SOC Analyst – Splunk
-- SOC Analyst Project 2
-- Security Evaluation
+- Snort Challenge
+- Yara Challenge
+- SOC 1 - Configuring Defense
+- SOC 2 - TTPs
+- SOC 3 Incident Investigation
 - Quick and Simple Server Exposure Review
 
 This is an ongoing body of work, with additional labs and investigations added over time.
