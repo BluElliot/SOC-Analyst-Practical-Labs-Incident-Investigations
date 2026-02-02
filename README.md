@@ -6,6 +6,7 @@ This portfolio consolidates multiple hands-on SOC analyst projects focused on th
 - Log analysis and alert triage
 - Incident investigation and defensive reasoning
 
+
 **Included projects:**
 - TShark Challenge
 - Zeek Challenge
